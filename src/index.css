@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Geostar+Fill');
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  background:linear-gradient(to right, #4799E9, #65F4CD);;
+  margin: 0;
+  padding-top: 50px;
+  justify-content: center;
+}
+
+.h1 {
+  font-family: 'Geostar Fill', cursive;
+}
